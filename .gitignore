@@ -28,3 +28,6 @@ Thumbs.db
 .env
 *.local
 /tmp/
+
+# Illustrations, thoughts, ideas (Docs)
+/docs/
