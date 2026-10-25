@@ -1,0 +1,30 @@
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+subchecker
+
+# Test output
+*.test
+*.out
+coverage.txt
+coverage.html
+
+# Go workspace
+go.work
+go.work.sum
+
+# VSCode
+.vscode/
+*.swp
+
+.DS_Store
+Thumbs.db
+
+# For local development
+.env
+*.local
+/tmp/
